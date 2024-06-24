@@ -8,19 +8,13 @@ This application is a multi-agent system that will write a paper on a specified 
 
 ## Local Development
 
-Follow these steps to run this application locally.
-
-### Install Packages
-
-To install the required, run:
+Install the required packages:
 
 ```
 pip install -r requirements.txt
 ```
 
-### Run the Application
-
-To run the application:
+Run the application:
 
 ```
 python src/main.py
